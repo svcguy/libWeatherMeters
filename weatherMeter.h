@@ -1,6 +1,7 @@
 /** @file weatherMeter.h
 * 
-* @brief A description of the module’s purpose. 
+* @brief    An STM32CubeMX compatible library to interface to the Sparkfun
+*           Weather Meters (https://www.sparkfun.com/products/8942)
 *
 * @par       
 * 	 COPYRIGHT NOTICE: (c) 2018 Andy Josephson 
